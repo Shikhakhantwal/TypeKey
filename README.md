@@ -190,14 +190,14 @@ cd TypeKey
 
 ## 📸 Screenshots / Output
 
-_demo screenshot_
+_TypeKey screenshot_
 
-```text
+
 <img width="1024" height="612" alt="image" src="https://github.com/user-attachments/assets/f7eebe95-00e7-4c76-9f5e-0acdfced2405" />
 
 <img width="1016" height="601" alt="image" src="https://github.com/user-attachments/assets/f305c430-5528-4264-af93-1a13274af634" />
 
-```
+
 
 ---
 
